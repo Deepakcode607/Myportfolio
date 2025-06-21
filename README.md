@@ -4,8 +4,8 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Preview
 
-🔗 [View Portfolio](https://yourusername.github.io/your-repo-name)  
-_(Replace with your actual GitHub Pages URL)_
+🔗 [View Portfolio](https://deepakcode607.github.io/Myportfolio/)  
+
 
 ## 🛠 Tech Stack
 
