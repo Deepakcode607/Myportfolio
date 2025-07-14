@@ -11,5 +11,5 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 - **HTML5** – For content structure  
 - **CSS3** – For styling and layout  
-- **JavaScript** – For interactivity and dynamic elements
+- **JavaScript** – For interactivity and dynamic elements 
 
